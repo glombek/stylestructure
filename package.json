@@ -1,6 +1,6 @@
 {
-  "name": "Benerator",
-  "version": "0.0.1",
+  "name": "MyApp",
+  "version": "",
   "devDependencies": {
     "gulp": "~3.9.0",
     "gulp-sass": "~2.0.4",

@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "description": "",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bourbon": "~4.2.6",
+    "neat": "~1.7.2"
+  },
+  "ignore": [
+    "**/.*",
+    "lib/ext"
+  ]
+}
